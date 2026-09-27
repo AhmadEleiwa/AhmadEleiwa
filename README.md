@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **Plantie**
 
-- 🌱 I'm currently learning **flutter and laravel**
+- 🌱 I'm currently learning **RAG and LLM**
 
 - 💬 Ask me about **react, node, laravel, flutter**
 
